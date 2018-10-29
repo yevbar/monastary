@@ -1,4 +1,6 @@
 # monastery
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyevbar%2Fmonastery.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyevbar%2Fmonastery?ref=badge_shield)
+
 Intelligent Knowledge Base
 
 I really want to make this in common lisp however, for the sake of shipping something in the duration of the hackathon, I will deploy this as a Python-Flask application on Heroku
@@ -32,3 +34,7 @@ We're using mLab MongoDB Heroku plugin and the ideal structure of an object in t
 	]
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyevbar%2Fmonastery.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyevbar%2Fmonastery?ref=badge_large)
